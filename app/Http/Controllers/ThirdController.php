@@ -27,7 +27,7 @@ class ThirdController extends Controller
      */
     public function show()
     {
-        dd("third controller edited");
+        dd("third controller");
     }
 
     /**
