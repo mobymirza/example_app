@@ -12,7 +12,7 @@ class SecondController extends Controller
      */
     public function index()
     {
-        dd("hi second controller is edited");
+        dd("hi second controller");
     }
 
     /**
